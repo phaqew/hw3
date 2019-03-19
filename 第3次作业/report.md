@@ -17,22 +17,22 @@
 
 * 最初打算输出.csv用Excel画图，后来改为自行输出直方图文件。结果都是256*256的黑白图片，从左到右每列对应灰度0~255，每列上白条的高度反映了该灰度像素数的多少。（占总数的比例乘以5000取整，总数不含未定义颜色，详见[p1\p1.cpp](p1/p1.cpp)）
 
-名称|图片|直方图
+名称|直方图|原图
 --|--|:--:
-citywall|![-](p1/citywall.bmp)|![-](p1/_hgcitywall.bmp)
-citywall1|![-](p1/citywall1.bmp)|![-](p1/_hgcitywall1.bmp)
-citywall2|![-](p1/citywall2.bmp)|![-](p1/_hgcitywall2.bmp)
-elain|![-](p1/elain.bmp)|![-](p1/_hgelain.bmp)
-elain1|![-](p1/elain1.bmp)|![-](p1/_hgelain1.bmp)
-elain2|![-](p1/elain2.bmp)|![-](p1/_hgelain2.bmp)
-elain3|![-](p1/elain3.bmp)|![-](p1/_hgelain3.bmp)
-lena|![-](p1/lena.bmp)|![-](p1/_hglena.bmp)
-lena1|![-](p1/lena1.bmp)|![-](p1/_hglena1.bmp)
-lena2|![-](p1/lena2.bmp)|![-](p1/_hglena2.bmp)
-lena4|![-](p1/lena4.bmp)|![-](p1/_hglena4.bmp)
-woman|![-](p1/woman.bmp)|![-](p1/_hgwoman.bmp)
-woman1|![-](p1/woman1.bmp)|![-](p1/_hgwoman1.bmp)
-woman2|![-](p1/woman2.bmp)|![-](p1/_hgwoman2.bmp)
+citywall|![-](p1/_hgcitywall.bmp)|![-](p1/citywall.bmp)
+citywall1|![-](p1/_hgcitywall1.bmp)|![-](p1/citywall1.bmp)
+citywall2|![-](p1/_hgcitywall2.bmp)|![-](p1/citywall2.bmp)
+elain|![-](p1/_hgelain.bmp)|![-](p1/elain.bmp)
+elain1|![-](p1/_hgelain1.bmp)|![-](p1/elain1.bmp)
+elain2|![-](p1/_hgelain2.bmp)|![-](p1/elain2.bmp)
+elain3|![-](p1/_hgelain3.bmp)|![-](p1/elain3.bmp)
+lena|![-](p1/_hglena.bmp)|![-](p1/lena.bmp)
+lena1|![-](p1/_hglena1.bmp)|![-](p1/lena1.bmp)
+lena2|![-](p1/_hglena2.bmp)|![-](p1/lena2.bmp)
+lena4|![-](p1/_hglena4.bmp)|![-](p1/lena4.bmp)
+woman|![-](p1/_hgwoman.BMP)|![-](p1/woman.bmp)
+woman1|![-](p1/_hgwoman1.bmp)|![-](p1/woman1.bmp)
+woman2|![-](p1/_hgwoman2.bmp)|![-](p1/woman2.bmp)
 
 ---
 
@@ -62,7 +62,7 @@ lena|![-](p2/lena.bmp)|![-](p2/lena_eq.bmp)|![-](p2/_hg_lena.bmp)|![-](p2/_hg_le
 lena1|![-](p2/lena1.bmp)|![-](p2/lena1_eq.bmp)|![-](p2/_hg_lena1.bmp)|![-](p2/_hg_lena1_eq.bmp)
 lena2|![-](p2/lena2.bmp)|![-](p2/lena2_eq.bmp)|![-](p2/_hg_lena2.bmp)|![-](p2/_hg_lena2_eq.bmp)
 lena4|![-](p2/lena4.bmp)|![-](p2/lena4_eq.bmp)|![-](p2/_hg_lena4.bmp)|![-](p2/_hg_lena4_eq.bmp)
-woman|![-](p2/woman.bmp)|![-](p2/woman_eq.bmp)|![-](p2/_hg_woman.bmp)|![-](p2/_hg_woman_eq.bmp)
+woman|![-](p2/woman.BMP)|![-](p2/woman_eq.bmp)|![-](p2/_hg_woman.bmp)|![-](p2/_hg_woman_eq.bmp)
 woman1|![-](p2/woman1.bmp)|![-](p2/woman1_eq.bmp)|![-](p2/_hg_woman1.bmp)|![-](p2/_hg_woman1_eq.bmp)
 woman2|![-](p2/woman2.bmp)|![-](p2/woman2_eq.bmp)|![-](p2/_hg_woman2.bmp)|![-](p2/_hg_woman2_eq.bmp)
 
@@ -104,7 +104,7 @@ lena|![-](p3/lena.bmp)| |![-](p3/_hg_lena.bmp)|
 lena1|![-](p3/lena1.bmp)|![-](p3/lena1_eq.bmp)|![-](p3/_hg_lena1.bmp)|![-](p3/_hg_lena1_eq.bmp)
 lena2|![-](p3/lena2.bmp)|![-](p3/lena2_eq.bmp)|![-](p3/_hg_lena2.bmp)|![-](p3/_hg_lena2_eq.bmp)
 lena4|![-](p3/lena4.bmp)|![-](p3/lena4_eq.bmp)|![-](p3/_hg_lena4.bmp)|![-](p3/_hg_lena4_eq.bmp)
-woman|![-](p3/woman.bmp)| |![-](p3/_hg_woman.bmp)| 
+woman|![-](p3/woman.BMP)| |![-](p3/_hg_woman.bmp)| 
 woman1|![-](p3/woman1.bmp)|![-](p3/woman1_eq.bmp)|![-](p3/_hg_woman1.bmp)|![-](p3/_hg_woman1_eq.bmp)
 woman2|![-](p3/woman2.bmp)|![-](p3/woman2_eq.bmp)|![-](p3/_hg_woman2.bmp)|![-](p3/_hg_woman2_eq.bmp)
 
@@ -122,7 +122,7 @@ woman2|![-](p3/woman2.bmp)|![-](p3/woman2_eq.bmp)|![-](p3/_hg_woman2.bmp)|![-](p
 
 * 局部直方图均衡计算量大，可以优化加速。首先，每个像素与和它相邻的像素的7*7邻域只有7个像素的区别，可以递推减少计算量。
 
-* 这里设计了一个长度为256的**线段树**（详见[p4\segTreeC.cpp](p4/segTreeC.cpp)），对其插入和求和复杂度都是log(256)（不会随邻域大小变化）。利用它存放7*7邻域的所有像素灰度值，每次可以快速计算灰度小于中点像素的个数，以及递推到相邻点的邻域。哪怕邻域大至31*31也可以秒出结果。代码见[p4\p4.cpp](p4/p4.cpp)
+* 这里设计了一个长度为256的**线段树**（详见[p4\segTreeC.cpp](p4/segTreeC.cpp)），对其插入和求和复杂度都是log(256)（不会随邻域大小变化）。利用它存放7*7邻域的所有像素灰度值，每次可以快速计算灰度小于中点像素的个数，以及递推到相邻点的邻域。哪怕邻域边长大至31也可以秒出结果。代码见[p4\p4.cpp](p4/p4.cpp)
 
 名称|原图片|局部直方图处理后
 --|--|--
