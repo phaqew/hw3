@@ -3,6 +3,8 @@
 
 ### 自动化少61 何奈特 2140506114
 
+注：点击文中的链接指向代码文件
+
 ---
 
 ## 题目一
@@ -30,7 +32,7 @@ lena|![-](p1/_hglena.bmp)|![-](p1/lena.bmp)
 lena1|![-](p1/_hglena1.bmp)|![-](p1/lena1.bmp)
 lena2|![-](p1/_hglena2.bmp)|![-](p1/lena2.bmp)
 lena4|![-](p1/_hglena4.bmp)|![-](p1/lena4.bmp)
-woman|![-](p1/_hgwoman.BMP)|![-](p1/woman.bmp)
+woman|![-](p1/_hgwoman.bmp)|![-](p1/woman.BMP)
 woman1|![-](p1/_hgwoman1.bmp)|![-](p1/woman1.bmp)
 woman2|![-](p1/_hgwoman2.bmp)|![-](p1/woman2.bmp)
 
@@ -49,22 +51,39 @@ $$255 * (所有小于该灰度值的像素数 / 像素总数)$$
 
 * 将前题的代码搬了过来以输出修改前后的直方图。
 
-名称|原图片|均衡后图片|原直方图|均衡后直方图
---|--|--|:--:|:--:
-citywall|![-](p2/citywall.bmp)|![-](p2/citywall_eq.bmp)|![-](p2/_hg_citywall.bmp)|![-](p2/_hg_citywall_eq.bmp)
-citywall1|![-](p2/citywall1.bmp)|![-](p2/citywall1_eq.bmp)|![-](p2/_hg_citywall1.bmp)|![-](p2/_hg_citywall1_eq.bmp)
-citywall2|![-](p2/citywall2.bmp)|![-](p2/citywall2_eq.bmp)|![-](p2/_hg_citywall2.bmp)|![-](p2/_hg_citywall1_eq.bmp)
-elain|![-](p2/elain.bmp)|![-](p2/elain_eq.bmp)|![-](p2/_hg_elain.bmp)|![-](p2/_hg_elain_eq.bmp)
-elain1|![-](p2/elain1.bmp)|![-](p2/elain1_eq.bmp)|![-](p2/_hg_elain1.bmp)|![-](p2/_hg_elain1_eq.bmp)
-elain2|![-](p2/elain2.bmp)|![-](p2/elain2_eq.bmp)|![-](p2/_hg_elain2.bmp)|![-](p2/_hg_elain2_eq.bmp)
-elain3|![-](p2/elain3.bmp)|![-](p2/elain3_eq.bmp)|![-](p2/_hg_elain3.bmp)|![-](p2/_hg_elain3_eq.bmp)
-lena|![-](p2/lena.bmp)|![-](p2/lena_eq.bmp)|![-](p2/_hg_lena.bmp)|![-](p2/_hg_lena_eq.bmp)
-lena1|![-](p2/lena1.bmp)|![-](p2/lena1_eq.bmp)|![-](p2/_hg_lena1.bmp)|![-](p2/_hg_lena1_eq.bmp)
-lena2|![-](p2/lena2.bmp)|![-](p2/lena2_eq.bmp)|![-](p2/_hg_lena2.bmp)|![-](p2/_hg_lena2_eq.bmp)
-lena4|![-](p2/lena4.bmp)|![-](p2/lena4_eq.bmp)|![-](p2/_hg_lena4.bmp)|![-](p2/_hg_lena4_eq.bmp)
-woman|![-](p2/woman.BMP)|![-](p2/woman_eq.bmp)|![-](p2/_hg_woman.bmp)|![-](p2/_hg_woman_eq.bmp)
-woman1|![-](p2/woman1.bmp)|![-](p2/woman1_eq.bmp)|![-](p2/_hg_woman1.bmp)|![-](p2/_hg_woman1_eq.bmp)
-woman2|![-](p2/woman2.bmp)|![-](p2/woman2_eq.bmp)|![-](p2/_hg_woman2.bmp)|![-](p2/_hg_woman2_eq.bmp)
+名称|原图片|均衡后图片
+--|--|--
+citywall|![-](p2/citywall.bmp)|![-](p2/citywall_eq.bmp)
+citywall1|![-](p2/citywall1.bmp)|![-](p2/citywall1_eq.bmp)
+citywall2|![-](p2/citywall2.bmp)|![-](p2/citywall2_eq.bmp)
+elain|![-](p2/elain.bmp)|![-](p2/elain_eq.bmp)
+elain1|![-](p2/elain1.bmp)|![-](p2/elain1_eq.bmp)
+elain2|![-](p2/elain2.bmp)|![-](p2/elain2_eq.bmp)
+elain3|![-](p2/elain3.bmp)|![-](p2/elain3_eq.bmp)
+lena|![-](p2/lena.bmp)|![-](p2/lena_eq.bmp)
+lena1|![-](p2/lena1.bmp)|![-](p2/lena1_eq.bmp)
+lena2|![-](p2/lena2.bmp)|![-](p2/lena2_eq.bmp)
+lena4|![-](p2/lena4.bmp)|![-](p2/lena4_eq.bmp)
+woman|![-](p2/woman.BMP)|![-](p2/woman_eq.bmp)
+woman1|![-](p2/woman1.bmp)|![-](p2/woman1_eq.bmp)
+woman2|![-](p2/woman2.bmp)|![-](p2/woman2_eq.bmp)
+
+名称|原直方图|均衡后直方图
+--|--|--
+citywall|![-](p2/_hg_citywall.bmp)|![-](p2/_hg_citywall_eq.bmp)
+citywall1|![-](p2/_hg_citywall1.bmp)|![-](p2/_hg_citywall1_eq.bmp)
+citywall2|![-](p2/_hg_citywall2.bmp)|![-](p2/_hg_citywall1_eq.bmp)
+elain|![-](p2/_hg_elain.bmp)|![-](p2/_hg_elain_eq.bmp)
+elain1|![-](p2/_hg_elain1.bmp)|![-](p2/_hg_elain1_eq.bmp)
+elain2|![-](p2/_hg_elain2.bmp)|![-](p2/_hg_elain2_eq.bmp)
+elain3|![-](p2/_hg_elain3.bmp)|![-](p2/_hg_elain3_eq.bmp)
+lena|![-](p2/_hg_lena.bmp)|![-](p2/_hg_lena_eq.bmp)
+lena1|![-](p2/_hg_lena1.bmp)|![-](p2/_hg_lena1_eq.bmp)
+lena2|![-](p2/_hg_lena2.bmp)|![-](p2/_hg_lena2_eq.bmp)
+lena4|![-](p2/_hg_lena4.bmp)|![-](p2/_hg_lena4_eq.bmp)
+woman|![-](p2/_hg_woman.bmp)|![-](p2/_hg_woman_eq.bmp)
+woman1|![-](p2/_hg_woman1.bmp)|![-](p2/_hg_woman1_eq.bmp)
+woman2|![-](p2/_hg_woman2.bmp)|![-](p2/_hg_woman2_eq.bmp)
 
 * 可以从直方图中看出，对于citywall1、citywall2、elain3、lena2这几幅图来说，灰度差被拉开，对比度增强比较明显。
 
@@ -91,22 +110,33 @@ for(int i = 0, j = 0; i < 256; i++){ //i递进
 
 * 接下来将目标图片调色板中所有的灰度k修改为m[k]即可。
 
-名称|原图片|均衡后图片|原直方图|均衡后直方图
---|--|--|:--:|:--:
-citywall|![-](p3/citywall.bmp)| |![-](p3/_hg_citywall.bmp)| 
-citywall1|![-](p3/citywall1.bmp)|![-](p3/citywall1_eq.bmp)|![-](p3/_hg_citywall1.bmp)|![-](p3/_hg_citywall1_eq.bmp)
-citywall2|![-](p3/citywall2.bmp)|![-](p3/citywall2_eq.bmp)|![-](p3/_hg_citywall2.bmp)|![-](p3/_hg_citywall1_eq.bmp)
-elain|![-](p3/elain.bmp)| |![-](p3/_hg_elain.bmp)| 
-elain1|![-](p3/elain1.bmp)|![-](p3/elain1_eq.bmp)|![-](p3/_hg_elain1.bmp)|![-](p3/_hg_elain1_eq.bmp)
-elain2|![-](p3/elain2.bmp)|![-](p3/elain2_eq.bmp)|![-](p3/_hg_elain2.bmp)|![-](p3/_hg_elain2_eq.bmp)
-elain3|![-](p3/elain3.bmp)|![-](p3/elain3_eq.bmp)|![-](p3/_hg_elain3.bmp)|![-](p3/_hg_elain3_eq.bmp)
-lena|![-](p3/lena.bmp)| |![-](p3/_hg_lena.bmp)| 
-lena1|![-](p3/lena1.bmp)|![-](p3/lena1_eq.bmp)|![-](p3/_hg_lena1.bmp)|![-](p3/_hg_lena1_eq.bmp)
-lena2|![-](p3/lena2.bmp)|![-](p3/lena2_eq.bmp)|![-](p3/_hg_lena2.bmp)|![-](p3/_hg_lena2_eq.bmp)
-lena4|![-](p3/lena4.bmp)|![-](p3/lena4_eq.bmp)|![-](p3/_hg_lena4.bmp)|![-](p3/_hg_lena4_eq.bmp)
-woman|![-](p3/woman.BMP)| |![-](p3/_hg_woman.bmp)| 
-woman1|![-](p3/woman1.bmp)|![-](p3/woman1_eq.bmp)|![-](p3/_hg_woman1.bmp)|![-](p3/_hg_woman1_eq.bmp)
-woman2|![-](p3/woman2.bmp)|![-](p3/woman2_eq.bmp)|![-](p3/_hg_woman2.bmp)|![-](p3/_hg_woman2_eq.bmp)
+图片名|citywall|citywall1|citywall2
+--|--|--|--
+原图|![-](p3/citywall.bmp)|![-](p3/citywall1.bmp)|![-](p3/citywall2.bmp)
+均衡后图片|![-](p3/citywall.bmp)|![-](p3/citywall1_eq.bmp)|![-](p3/citywall2_eq.bmp)
+原直方图|![-](p3/_hg_citywall.bmp)|![-](p3/_hg_citywall1.bmp)|![-](p3/_hg_citywall2.bmp)
+均衡后直方图|![-](p3/_hg_citywall.bmp)|![-](p3/_hg_citywall1_eq.bmp)|![-](p3/_hg_citywall1_eq.bmp)
+
+图片名|elain|elain1|elain2|elain3
+--|--|--|--|--
+原图|![-](p3/elain.bmp)|![-](p3/elain1.bmp)|![-](p3/elain2.bmp)|![-](p3/elain3.bmp)
+均衡后图片|![-](p3/elain.bmp)|![-](p3/elain1_eq.bmp)|![-](p3/elain2_eq.bmp)|![-](p3/elain3_eq.bmp)
+原直方图|![-](p3/_hg_elain.bmp)|![-](p3/_hg_elain1.bmp)|![-](p3/_hg_elain2.bmp)|![-](p3/_hg_elain3.bmp)
+均衡后直方图|![-](p3/_hg_elain.bmp)|![-](p3/_hg_elain1_eq.bmp)|![-](p3/_hg_elain2_eq.bmp)|![-](p3/_hg_elain3_eq.bmp)
+
+图片名|lena|lena1|lena2|lena3
+--|--|--|--|--
+原图|![-](p3/lena.bmp)|![-](p3/lena1.bmp)|![-](p3/lena2.bmp)|![-](p3/lena4.bmp)
+均衡后图片|![-](p3/lena.bmp)|![-](p3/lena1_eq.bmp)|![-](p3/lena2_eq.bmp)|![-](p3/lena4_eq.bmp)
+原直方图|![-](p3/_hg_lena.bmp)|![-](p3/_hg_lena1.bmp)|![-](p3/_hg_lena2.bmp)|![-](p3/_hg_lena4.bmp)
+均衡后直方图|![-](p3/_hg_lena.bmp)|![-](p3/_hg_lena1_eq.bmp)|![-](p3/_hg_lena2_eq.bmp)|![-](p3/_hg_lena4_eq.bmp)
+
+图片名|woman|woman1|woman2
+--|--|--|--
+原图|![-](p3/woman.BMP)|![-](p3/woman1.bmp)|![-](p3/woman2.bmp)
+均衡后图片|![-](p3/woman.BMP)|![-](p3/woman1_eq.bmp)|![-](p3/woman2_eq.bmp)
+原直方图|![-](p3/_hg_woman.bmp)|![-](p3/_hg_woman1.bmp)|![-](p3/_hg_woman2.bmp)
+均衡后直方图|![-](p3/_hg_woman.bmp)|![-](p3/_hg_woman1_eq.bmp)|![-](p3/_hg_woman1_eq.bmp)
 
 * 可以看出，每个图片的直方图都匹配到了源图像的形状（当然那些“*未定义颜色*”的部分都丢失了）。
 
@@ -114,9 +144,9 @@ woman2|![-](p3/woman2.bmp)|![-](p3/woman2_eq.bmp)|![-](p3/_hg_woman2.bmp)|![-](p
 
 ## 题目四
 
->对elain和lena图像进行7*7的局部直方图均衡
+> 对elain和lena图像进行7*7的局部直方图均衡
 
-* **边缘不作处理！**默认留黑边。
+* **边缘不作处理**！默认留黑边。
 
 * 与前面的直方图均衡一样，求出邻域中所有灰度小于中心点灰度的像素个数，乘255除49，即可求出应给中心点分配的新灰度值。
 
