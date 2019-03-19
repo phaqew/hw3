@@ -16,20 +16,20 @@
 
 名称|图片|直方图
 --|--|--
-citywall|![-](p1/citywall.bmp)|![-](p1/_hg_citywall.bmp)
-citywall1|![-](p1/citywall1.bmp)|![-](p1/_hg_citywall1.bmp)
-citywall2|![-](p1/citywall2.bmp)|![-](p1/_hg_citywall2.bmp)
-elain|![-](p1/elain.bmp)|![-](p1/_hg_elain.bmp)
-elain1|![-](p1/elain1.bmp)|![-](p1/_hg_elain1.bmp)
-elain2|![-](p1/elain2.bmp)|![-](p1/_hg_elain2.bmp)
-elain3|![-](p1/elain3.bmp)|![-](p1/_hg_elain3.bmp)
-lena|![-](p1/lena.bmp)|![-](p1/_hg_lena.bmp)
-lena1|![-](p1/lena1.bmp)|![-](p1/_hg_lena1.bmp)
-lena2|![-](p1/lena2.bmp)|![-](p1/_hg_lena2.bmp)
-lena4|![-](p1/lena4.bmp)|![-](p1/_hg_lena4.bmp)
-woman|![-](p1/woman.bmp)|![-](p1/_hg_woman.bmp)
-woman1|![-](p1/woman1.bmp)|![-](p1/_hg_woman1.bmp)
-woman2|![-](p1/woman2.bmp)|![-](p1/_hg_woman2.bmp)
+citywall|![-](p1/citywall.bmp)|![-](p1/_hgcitywall.bmp)
+citywall1|![-](p1/citywall1.bmp)|![-](p1/_hgcitywall1.bmp)
+citywall2|![-](p1/citywall2.bmp)|![-](p1/_hgcitywall2.bmp)
+elain|![-](p1/elain.bmp)|![-](p1/_hgelain.bmp)
+elain1|![-](p1/elain1.bmp)|![-](p1/_hgelain1.bmp)
+elain2|![-](p1/elain2.bmp)|![-](p1/_hgelain2.bmp)
+elain3|![-](p1/elain3.bmp)|![-](p1/_hgelain3.bmp)
+lena|![-](p1/lena.bmp)|![-](p1/_hglena.bmp)
+lena1|![-](p1/lena1.bmp)|![-](p1/_hglena1.bmp)
+lena2|![-](p1/lena2.bmp)|![-](p1/_hglena2.bmp)
+lena4|![-](p1/lena4.bmp)|![-](p1/_hglena4.bmp)
+woman|![-](p1/woman.bmp)|![-](p1/_hgwoman.bmp)
+woman1|![-](p1/woman1.bmp)|![-](p1/_hgwoman1.bmp)
+woman2|![-](p1/woman2.bmp)|![-](p1/_hgwoman2.bmp)
 
 ## 题目二
 
@@ -119,5 +119,5 @@ lena|![-](p4/lena.bmp)|![-](p4/_lhe_lena.bmp)
 
 名称|分割后图片
 --|--
-elain|![-](p5/elain.bmp)|![-](p5/elain_.bmp)
-woman|![-](p5/woman.bmp)|![-](p5/woman_.bmp)
+elain|![-](p5/elain_.bmp)
+woman|![-](p5/woman_.bmp)
